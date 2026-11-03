@@ -2,7 +2,8 @@
 
 Team name: **nova**
 
-- This is our model report for the [OpenADMET CYP Inhibition Blind Challenge](https://huggingface.co/spaces/openadmet/cyp-challenge). 
+- This is our model report for the [OpenADMET CYP Inhibition Blind Challenge](https://huggingface.co/spaces/openadmet/cyp-challenge).
+- We participated in all tracks, but we focused on TDI classification and structure prediction.
 
 ### TDI classification (CYP2D6, CYP3A4)
 - **Data sources**
