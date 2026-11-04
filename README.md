@@ -16,13 +16,13 @@ Team name: **nova**
   - Out-of-fold surrogate outputs from the external data
 - **Model architectures**
   - SVC
-  - LGBM with fingerprint aux features
+  - LGBM 
   - ChemProp-MT (CheMeleon)
   - AutoGluon
   - Kumo
 - **Ensembling strategy (weighted average)**
   - Caruana-selected weighted rank average across feature and model families
-  - Top-K positive set per endpoint from inferred prevalence (CYP2D6 small K, CYP3A4 larger K)
+  - Top-K positive set per endpoint from inferred prevalence
  
  ### Direct inhibition (pIC50: CYP1A2, 2C9, 2D6, 3A4; ST-RAE)
 - **Data sources**
